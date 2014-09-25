@@ -1,0 +1,30 @@
+{
+  "name": "nightwatch-skeleton",
+  "version": "1.0.0",
+  "description": "Simple skeleton for getting started with Nightwatch Selenium testing.",
+  "main": "nightwatch",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/james-huston/nightwatch-skeleton.git"
+  },
+  "keywords": [
+    "Nightwatch",
+    "Selenium"
+  ],
+  "author": "James Huston <jhuston@redventures.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james-huston/nightwatch-skeleton/issues"
+  },
+  "homepage": "https://github.com/james-huston/nightwatch-skeleton",
+  "dependencies": {
+    "envcfg": "^0.1.1",
+    "nightwatch": "0.5.28"
+  }
+}
